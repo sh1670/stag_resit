@@ -1,5 +1,5 @@
 ## Briefing on STAG assignment
-### <a href='https://web.microsoftstream.com/video/7bc0bf40-a527-4017-a841-202938cbeb58' target='_blank'> Video Introduction ![](resources/icons/briefing.png) </a>
+### <a href='https://web.microsoftstream.com/video/c45236c9-a811-4b18-924b-cc68fd30ccbd' target='_blank'> Video Introduction ![](resources/icons/briefing.png) </a>
 ### Task 1: Introduction
 
 
