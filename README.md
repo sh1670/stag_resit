@@ -62,7 +62,7 @@ For parsing DOT files you should use the
 For parsing JSON files you should use the
 <a href="http://alex-public-doc.s3.amazonaws.com/json_simple-1.1/index-all.html" target="_blank">JSON-simple library</a>
 (a jar file of this library can be found <a href="resources/libs/json-parser.jar" target="_blank">here</a>).
-To illustrate how parsing libraries may be used, a <a href="resources/code/GraphParserExample.java" target="_blank">rough code fragment</a> is provided to illustrate reading in and printing out the content of DOT files. Note that this example is very "raw" code - you will need to refactor it if you make use of it in your own project.  
+To illustrate how parsing libraries may be used, a <a href="resources/code/GraphParserExample.java" target="_blank">rough code fragment</a> is provided to illustrate reading in and printing out the content of DOT files. Note that this example is very "raw" code - you will need to refactor it if you make use of it in your own project. [Here](05%20Game%20Actions/hints/JSON_lib_help.md) something to get you started on the JSON files, which was sourced from [here](https://gist.github.com/mcSw4p/ab37318dbd394f4b5cc5de5d6d3f6ab3)
 
 
 # 
