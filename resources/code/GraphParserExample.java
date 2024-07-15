@@ -3,6 +3,10 @@ import com.alexmerz.graphviz.objects.*;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
 
 public class GraphParserExample {
 
@@ -41,6 +45,25 @@ public class GraphParserExample {
             System.out.println(fnfe);
         } catch (com.alexmerz.graphviz.ParseException pe) {
             System.out.println(pe);
+        }
+    }
+      public static void readJSON(){
+        String filepath = "data/basic-actions.json";
+        JSONObject jObj = null;
+        JSONParser parser = new JSONParser();
+        try{
+            jObj = (JSONObject) parser.parse(new FileReader(filepath));
+        } catch (IOException | ParseException e) {
+            e.printStackTrace();
+        }
+        JSONArray array = (JSONArray) jObj.get("actions");
+        for(var v : array){
+            JSONArray consumed = (JSONArray) ((JSONObject)v).get("consumed");
+            JSONArray subjects = (JSONArray) ((JSONObject)v).get("subjects");
+            JSONArray triggers = (JSONArray) ((JSONObject)v).get("triggers");
+            String narration = (String)((JSONObject)v).get("narration");
+            System.out.println(v);
+
         }
     }
 }
