@@ -1,5 +1,5 @@
 ## Briefing on STAG assignment
-### <a href='https://web.microsoftstream.com/video/c45236c9-a811-4b18-924b-cc68fd30ccbd' target='_blank'> Video Introduction ![](resources/icons/briefing.png) </a>
+### <a href='https://uob-my.sharepoint.com/personal/sh1670_bristol_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsh1670%5Fbristol%5Fac%5Fuk%2FDocuments%2FStream%20Migrated%20Videos%2FSTAG%20UG%20Briefing%2D20210719%5F035943%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1dcb9b99%2Decb6%2D4d41%2D93f8%2D9449be2097e4' target='_blank'> Video Introduction ![](resources/icons/briefing.png) </a>
 ### Task 1: Introduction
 
 
