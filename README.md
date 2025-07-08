@@ -233,6 +233,51 @@ that can be used to verify the testing script can find, run and communicate with
 This assignment is an opportunity to explore Java in detail and there are a range of interesting alternative avenues you might take in implementing this project. You might like to consider employing a range of design patterns.
 The Java Core API and Collections package also contains various useful data structures you might like to use.
 
+# ~40+ (there is leeway here)
+Some inbuilt commands working. Dot file loaded into data structure. Some OOP knowledge. At a miniumum:
+
+#classes and objects 
+#attributes and methods 
+#instantiation and constructors 
+#access modifiers 
+
+# ~50+
+All inbuilt commands working - so that is - look, drop, get etc. AND satisfatory viva performance - can explain code to a satisfatory standard and answer basic JAVA / OOP questions such as how to make new object, what a class is access modifiers etc.
+
+#classes and objects 
+#attributes and methods 
+#instantiation and constructors 
+#access modifiers 
+#static methods 
+#immutables 
+#references and null 
+#generics 
+#inheritance 
+
+# ~60+
+Action files loaded. Actions partially working (at least open door to go to the cellar). AND satisfatory viva performance - can explain code to a good standard. Intermediate JAVA knowledge: 
+
+#classes and objects 
+#attributes and methods 
+#instantiation and constructors 
+#access modifiers 
+#static methods 
+#immutables 
+#references and null 
+#generics 
+#overloading vs overriding 
+#getters, setters and encapsulation 
+#inheritance 
+#polymorphism and downcasting 
+#exceptions  
+#abstract classes 
+#interfaces 
+#super 
+#dynamic dispatch 
+#idea/code of visitor 
+
+# ~70+
+All inbuilt commands working and All actions working. AND excellent viva performance - can explain code to an excellent standard. AND demonstrates advanced knowledge about OOP - all concepts from lectures including design patterns.
 
 # 
 ### Task 10: Plagiarism
